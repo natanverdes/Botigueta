@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Botigueta</string>
+    <string-array name="productos_titulo">
+        <item>Cireres</item>
+        <item>Plàtan</item>
+        <item>Pastís</item>
+        <item>Barra de pa</item>
+        <item>Pa dolç</item>
+        <item>Croissant</item>
+        <item>Bistec de vedella 1/2Kg</item>
+        <item>Panet de llet</item>
+        <item>Dotzena d\'ous</item>
+        <item>Farina:Farina. Fina, fina</item>
+        <item>Raïm:Boníssim i sa</item>
+        <item>Pernil cuït</item>
+        <item>Piruleta</item>
+        <item>Poma</item>
+        <item>Pera</item>
+        <item>Pinya</item>
+        <item>Maduixes</item>
+        <item>Sucre</item>
+        <item>Síndria</item>
+        <item>Llet</item>
+        <item>Cafè</item>
+        <item>Àpat preparat</item>
+        <item>Pizza</item>
+        <item>Salmó</item>
+        <item>Pésols</item>
+        <item>Bolets</item>
+        <item>Ceba</item>
+        <item>Formatge</item>
+        <item>Pastanaga</item>
+    </string-array>
+    <string-array name="productos_descripcion">
+        <item>Cireres vermelles</item>
+        <item>Plàtan boníssim</item>
+        <item>Pastís d\'aniversari</item>
+        <item>De la nostra fleca</item>
+        <item>Dolç i bo</item>
+        <item>Fet al moment</item>
+        <item>Alta qualitat</item>
+        <item>Ideal per als nens</item>
+        <item>Gallines de proximitat</item>
+        <item>Suau, baix en sal</item>
+        <item>Sabor maduixa</item>
+        <item>Poma deliciosa</item>
+        <item>Pera ben bona</item>
+        <item>Ideal amanides fresques</item>
+        <item>Vermelles i boníssimes</item>
+        <item>Per endolcir-te la vida</item>
+        <item>Estupenda i sana</item>
+        <item>Semidesnatada</item>
+        <item>Mólt d\'alta qualitat</item>
+        <item>Si no pots cuinar</item>
+        <item>De 4 formatges</item>
+        <item>De la canya al sarronet</item>
+        <item>Ideals com a acompanyament</item>
+        <item>Dónen gust a tots els dinars</item>
+        <item>Dolça que no fa plorar</item>
+        <item>Semisec, boníssim</item>
+        <item>Ideal amanides</item>
+        <item>Ideal amanides</item>
+        <item>Ideal amanides</item>
+    </string-array>
+
+    <string-array name="productos_precio">
+        <item>1.56</item>
+        <item>0.15</item>
+        <item>12.99</item>
+        <item>0.42</item>
+        <item>0.65</item>
+        <item>0.85</item>
+        <item>14.50</item>
+        <item>0.15</item>
+        <item>1.89</item>
+        <item>0.99</item>
+        <item>1.24</item>
+        <item>9.99</item>
+        <item>0.10</item>
+        <item>0.23</item>
+        <item>0.24</item>
+        <item>1.50</item>
+        <item>1.25</item>
+        <item>0.99</item>
+        <item>3.65</item>
+        <item>0.75</item>
+        <item>0.76</item>
+        <item>5.85</item>
+        <item>3.55</item>
+        <item>4.56</item>
+        <item>0.55</item>
+        <item>0.42</item>
+        <item>0.35</item>
+        <item>2.30</item>
+        <item>0.21</item>
+    </string-array>
+
+    <string-array name="productos_img">
+        <item>img000.jpg</item>
+        <item>img001.jpg</item>
+        <item>img002.jpg</item>
+        <item>img003.jpg</item>
+        <item>img004.jpg</item>
+        <item>img005.jpg</item>
+        <item>img006.jpg</item>
+        <item>img007.jpg</item>
+        <item>img008.jpg</item>
+        <item>img009.jpg</item>
+        <item>img010.jpg</item>
+        <item>img011.jpg</item>
+        <item>img012.jpg</item>
+        <item>img013.jpg</item>
+        <item>img014.jpg</item>
+        <item>img015.jpg</item>
+        <item>img016.jpg</item>
+        <item>img017.jpg</item>
+        <item>img018.jpg</item>
+        <item>img019.jpg</item>
+        <item>img020.jpg</item>
+        <item>img021.jpg</item>
+        <item>img022.jpg</item>
+        <item>img023.jpg</item>
+        <item>img024.jpg</item>
+        <item>img025.jpg</item>
+        <item>img026.jpg</item>
+        <item>img027.jpg</item>
+        <item>img028.jpg</item>
+    </string-array>
+</resources>
